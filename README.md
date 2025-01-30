@@ -62,7 +62,7 @@ end
 ### 🌟 Roblox Games & Scripts
 
 <div align="center">
-<a href="https://github.com/AbdouGG/project1">
+<a href="https://github.com/AbdouGG/NurkHub2">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdouGG&repo=project1&title_color=38C2FF&icon_color=38C2FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
 </a>
 <a href="https://github.com/AbdouGG/project2">
