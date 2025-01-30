@@ -1,36 +1,50 @@
-# Abdou GG 👨💻
-**Lua Developer | Game Modding Enthusiast | Open Source Contributor**
+# Hello, I'm [Your Name] 👋 💻
+
+## About Me
+Senior Developer | Open Source Enthusiast | Tech Explorer
 
 ---
 
-## 🛠️ Technical Expertise
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### 🛠️ Technical Arsenal
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-### 🎮 DustyTrip Ecosystem
-[![Repo Star](https://img.shields.io/github/stars/AidouGG/dustytrip2?style=flat-square)](https://github.com/AidouGG/dustytrip2)  
-_Lua-based game modification framework supporting 50k+ active installations_
+#### 🚀 [Project Name 1]
+[![Stars](https://img.shields.io/github/stars/yourusername/project1?style=social)](https://github.com/yourusername/project1)
+- Brief description of your flagship project
+- Key technologies used
+- Impact or achievements
 
-### 🧩 NurkHub Package Manager
-[![Repo Star](https://img.shields.io/github/stars/AidouGG/NurkHub?style=flat-square)](https://github.com/AidouGG/NurkHub)  
-_Modular package management system for Roblox developers_
-
-### 📦 UI Library Collection
-[![Repo Star](https://img.shields.io/github/stars/AidouGG/uilliborin?style=flat-square)](https://github.com/AidouGG/uilliborin)  
-_Reusable UI components library for game development projects_
+#### 💡 [Project Name 2]
+[![Stars](https://img.shields.io/github/stars/yourusername/project2?style=social)](https://github.com/yourusername/project2)
+- Brief description of another significant project
+- Technical highlights
+- Notable features
 
 ---
 
-## 📈 Development Activity
-**496 contributions in the last year**
+### 📊 GitHub Stats
 
-```bash
-# Recent Activity Heatmap
-Feb ■■■□□□□ Mar ■■□□□□□ Apr ■■■■□□□ May ■■■■■□□ Jun ■□□□□□□
-Jul ■■■□□□□ Aug ■■□□□□□ Sep ■■■■□□□ Oct ■■■■■□□ Nov ■□□□□□□
-Dec ■■■□□□□ Jan ■■■■■■■ 2024 ■■■□□□□
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
+
+---
+
+⭐️ From [Abdou](https://github.com/AbdouGG)
