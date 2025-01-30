@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Roblox+Game+Developer;LUA+Specialist;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=Roblox+Games+Scripter;LUA+Specialist;Creative+Coder;Hacking+Roblox+Games;High+Quality+Scripts" alt="Typing SVG" />
 </div>
 
 <div align="center">
