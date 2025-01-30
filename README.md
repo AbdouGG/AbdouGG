@@ -12,32 +12,31 @@
 
 ```lua
 local developer = {
-    name = "Your Name",
-    title = "Roblox Game Developer",
-    location = "Your Location",
-    
+    name = "Abdou",
+    title = "Roblox Game Hacker Scripter",
+    location = "N/A",
+
     expertise = {
-        primary = "LUA Programming",
-        focus = "Roblox Game Development",
+        primary = "Lua Scripting",
+        focus = "Roblox Exploiting",
         experience = "3+ years"
     },
-    
-    skills = {
-        coding = {"LUA", "Roblox Studio", "Game Logic"},
-        gamedev = {"Game Mechanics", "UI/UX", "Scripting"},
-        tools = {"Roblox API", "Module Scripts", "RemoteEvents"}
-    },
-    
-    currentProject = "Awesome Roblox Game",
-    passions = {"Game Development", "Player Experience", "Creative Coding"},
-    
-    funFact = "Turning imagination into playable experiences! 🎮"
-}
 
--- Always learning and creating!
+    skills = {
+        coding = {"Lua", "Roblox Scripting"},
+        hacking = {"Exploiting", "Script Injection", "Game Security Bypass"},
+        tools = {"Exploit APIs", "Memory Manipulation", "Packet Sniffing"}
+    },
+
+    currentProject = "Nothing At the moment",
+    passions = {"N/A", "N/A", "N/A"},
+
+    funFact = "Breaking boundaries in Roblox game mechanics! 🕵️‍♂️"
+}
+-- Constantly refining techniques and pushing limits!
 while true do
     developer.skills.improve()
-    developer.createAwesomeGames()
+    developer.createInnovativeHacks()
 end
 ```
 
