@@ -82,25 +82,24 @@ end
 
 ## 🎮 Game Development Stats
 
-- 🎯 Total Games Published: X
-- 👥 Active Players: X+
-- ⭐ Average Game Rating: X/5
-- 🌟 Featured Projects: X
-- 💻 Scripts Created: X+
+- 🎯 Total Games Hacked: 4
+- ⭐ Average Scripts Rating: 3.5/5
+- 🌟 Featured Projects: 1
+- 💻 Scripts Created: 4
 
 ## 🤝 Connect & Play
 
 <div align="center">
-  <a href="https://www.roblox.com/users/AbdouGG/profile" target="_blank">
+  <a href="https://www.roblox.com/users/hlashbab45/profile" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://discord.gg/AbdouGG" target="_blank">
+  <a href="https://discord.gg/8ub8UQNzbT" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://twitter.com/AbdouGG" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://youtube.com/@AbdouGG" target="_blank">
+  <a href="https://youtube.com/@Novatavio" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
